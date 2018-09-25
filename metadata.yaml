@@ -1,10 +1,13 @@
 _repo: Hazai-rejtelmek-2-kotet-Regeny_57214
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Pataky, László
     gutenberg_agent_id: '49252'
     url: http://www.gutenberg.org/2009/agents/49252
+covers:
+- cover_type: archival
+  image_path: 57214-h/images/cover.jpg
 creator:
   author:
     agent_name: Kuthy, Lajos
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26008
     wikipedia: http://en.wikipedia.org/wiki/K%C3%A1lm%C3%A1n_Miksz%C3%A1th
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57214#Hazai-rejtelmek-2-kotet-Regeny
 gutenberg_issued: '2018-05-25'
 gutenberg_type: Text
 identifiers:
